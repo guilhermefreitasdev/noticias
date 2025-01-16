@@ -26,7 +26,8 @@ body {
 
 .container{
     width: 1366px;
-    margin: 0 auto ;
+    margin: 100px ;
+    padding: 37px;
 
 }
 
@@ -40,6 +41,8 @@ body {
 .articles article img {
     height: 100%;
 }
+
+
 
 .articles article {
     width: 30%;
