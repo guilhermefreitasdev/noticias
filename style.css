@@ -39,7 +39,8 @@ body {
 }
 
 .articles article img {
-    height: 100%;
+    height: 280px;
+    margin-right: 90px;
 }
 
 
